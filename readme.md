@@ -26,11 +26,11 @@ web-share {
 ### Usage example
 
 ```
-<web-share title='web fundamentals' text='Check out Web Fundamentals — it rocks!' url='https://developers.google.com/web'></web-share>
+<web-share title='web fundamentals' text='Check out Web Fundamentals — it rocks!' url='https://developers.google.com/web'>share</web-share>
 ```
 
 ### Script tag
-- Put a script tag similar to this `<script src='https://unpkg.com/web-share@0.0.1/dist/webshare.js'></script>` in the head of your index.html
+- Put a script tag similar to this `<script src='https://unpkg.com/web-share@0.0.2/dist/webshare.js'></script>` in the head of your index.html
 - Then you can use the element anywhere in your template, JSX, html etc
 
 ### Node Modules

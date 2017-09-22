@@ -4,9 +4,6 @@ exports.config = {
   generateWWW: true,
   bundles: [
     { components: ['web-share'] }
-  ],
-  collections: [
-    { name: 'ionicons' }
   ]
 };
 

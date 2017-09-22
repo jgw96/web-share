@@ -2,8 +2,7 @@ import { Component, Prop } from '@stencil/core';
 
 
 @Component({
-  tag: 'web-share',
-  styleUrl: 'web-share.scss'
+  tag: 'web-share'
 })
 export class WebShare {
 
@@ -32,8 +31,8 @@ export class WebShare {
   render() {
     return (
       <button onClick={() => this.share()}>
-        <ion-icon name='share'></ion-icon>
-      </button>
+        <slot></slot>
+      </button >
     );
   }
 }

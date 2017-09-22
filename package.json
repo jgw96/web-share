@@ -1,6 +1,6 @@
 {
   "name": "web-share",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Web component that wraps the web-share api",
   "main": "dist/collection/index.js",
   "types": "dist/collection/index.d.ts",
@@ -16,8 +16,7 @@
     "start": "npm run dev"
   },
   "dependencies": {
-    "@stencil/core": "0.0.6-0",
-    "ionicons": "^4.0.0-6"
+    "@stencil/core": "0.0.6-0"
   },
   "devDependencies": {
     "@stencil/dev-server": "latest",
