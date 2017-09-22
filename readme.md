@@ -5,16 +5,6 @@
 web-share is a web component that makes it super easy to use the [web share api](https://developers.google.com/web/updates/2016/09/navigator-share).
 
 
-## Styling
-This component is intentionally not styled by default so that you can easily style it to fit your app. To make changing the icons color a little easier you can use a [css variable](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_variables) called `icon-color`. Here is an example of using that css variable:
-
-```
-web-share {
-  --icon-color: blue;
-}
-```
-
-
 ## API
 
 - url(string): the url you want to share to someone
