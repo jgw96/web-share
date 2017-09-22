@@ -25,12 +25,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ionic-team/stencil-starter.git"
+    "url": "https://github.com/jgw96/web-share"
   },
-  "author": "Ionic Team",
+  "author": "Justin Willis",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ionic-team/stencil"
+    "url": "https://github.com/jgw96/web-share"
   },
-  "homepage": "https://github.com/ionic-team/stencil"
+  "homepage": "https://github.com/jgw96/web-share"
 }
